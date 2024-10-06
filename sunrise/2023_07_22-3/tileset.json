@@ -1,0 +1,1122 @@
+{
+  "asset": {
+    "version": "1.0"
+  },
+  "geometricError": 100.0,
+  "root": {
+    "transform": [
+      0.9527907644996887,
+      -0.30362766521530726,
+      0.0,
+      0.0,
+      0.24143125461342904,
+      0.7576169631780016,
+      -0.6064053812432143,
+      0.0,
+      0.18412145008087544,
+      0.5777774467914474,
+      0.7951556536925786,
+      0.0,
+      -1541780.4936725164,
+      -4838143.50123615,
+      3846581.9978736616,
+      1.0
+    ],
+    "boundingVolume": {
+      "box": [
+        -24.81481199999999,
+        -31.11235050000002,
+        -27.472519,
+        279.975136,
+        0.0,
+        0.0,
+        0.0,
+        -418.74021949999997,
+        0.0,
+        0.0,
+        0.0,
+        53.100838
+      ]
+    },
+    "geometricError": 100.0,
+    "refine": "ADD",
+    "content": null,
+    "children": [
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            153.2954037176711,
+            -283.7571480454943,
+            -23.3593245,
+            17.679680717671076,
+            0.0,
+            0.0,
+            0.0,
+            -43.27468779549433,
+            0.0,
+            0.0,
+            0.0,
+            4.113194499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZR-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            162.1991175,
+            -135.797405375,
+            -14.394111751844838,
+            47.02636149999999,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            13.07840724815516
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZR-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            40.644154066535584,
+            -243.2892496474399,
+            -26.7894145,
+            2.4453889146220646,
+            0.0,
+            0.0,
+            0.0,
+            -1.8974458828770935,
+            0.0,
+            0.0,
+            0.0,
+            0.6831044999999989
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZR-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            47.777361969097534,
+            -134.6393936808443,
+            -20.179997,
+            67.39539403090248,
+            0.0,
+            0.0,
+            0.0,
+            -103.52704318084429,
+            0.0,
+            0.0,
+            0.0,
+            7.292521999999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZR-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            202.44581338854013,
+            74.0797742318367,
+            8.846402000000001,
+            51.73053418589916,
+            0.0,
+            0.0,
+            0.0,
+            -104.1779850181633,
+            0.0,
+            0.0,
+            0.0,
+            9.768501999999998
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XR-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            185.16654,
+            231.212543625,
+            12.353109500000002,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -52.954784375,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XR-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            172.990206467091,
+            73.57270437499999,
+            -14.1973095,
+            57.81745046709098,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            156.91911809260148,
+            219.1001810650639,
+            -9.56407369393543,
+            41.74636209260146,
+            0.0,
+            0.0,
+            0.0,
+            -40.842421815063915,
+            0.0,
+            0.0,
+            0.0,
+            8.64197369393543
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.24157256080309,
+            149.9056305964964,
+            4.5613995,
+            50.9222859666512,
+            0.0,
+            0.0,
+            0.0,
+            -28.352128653503613,
+            0.0,
+            0.0,
+            0.0,
+            5.483499499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XL-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            81.0127283838489,
+            233.8537629820533,
+            2.8778065000000006,
+            34.160027616151126,
+            0.0,
+            0.0,
+            0.0,
+            -55.596003732053305,
+            0.0,
+            0.0,
+            0.0,
+            3.799906499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XL-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.178972000000016,
+            73.57270437499999,
+            -14.1973095,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.178972000000016,
+            282.942814125,
+            -14.1973095,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YR-ZL-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            141.63173531666848,
+            -321.97100714069353,
+            -40.403555,
+            26.458979316668476,
+            0.0,
+            0.0,
+            0.0,
+            -81.48854689069351,
+            0.0,
+            0.0,
+            0.0,
+            12.931036000000002
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XR-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            145.00972784185984,
+            -135.797405375,
+            -39.32729317925502,
+            29.83697184185982,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            11.854774179255024
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XR-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.178972000000016,
+            -329.98891137491904,
+            -40.747728499999994,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -89.50645112491902,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XL-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.178972000000016,
+            -135.797405375,
+            -40.747728499999994,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XL-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            40.58879646274364,
+            -329.893680625,
+            -59.991941499999996,
+            65.40360846274362,
+            0.0,
+            0.0,
+            0.0,
+            -89.41122037499998,
+            0.0,
+            0.0,
+            0.0,
+            5.9690034999999995
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            35.50843493383063,
+            -201.3930365515722,
+            -56.69110009199353,
+            60.32324693383062,
+            0.0,
+            0.0,
+            0.0,
+            -39.08942369842781,
+            0.0,
+            0.0,
+            0.0,
+            2.6681620919935405
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZR-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            130.43233171515516,
+            -3.9367682017514998,
+            -30.95729893985618,
+            15.259575715155123,
+            0.0,
+            0.0,
+            0.0,
+            -27.17558229824852,
+            0.0,
+            0.0,
+            0.0,
+            3.484779939856182
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZL-XR-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            45.178972000000016,
+            41.73288715001195,
+            -35.78121555890091,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -72.84523765001197,
+            0.0,
+            0.0,
+            0.0,
+            8.308696558900913
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZL-XL-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -10.695670837893557,
+            264.38144932524415,
+            -30.548562999999998,
+            14.119141162106432,
+            0.0,
+            0.0,
+            0.0,
+            -66.09459467475583,
+            0.0,
+            0.0,
+            0.0,
+            3.0760439999999996
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XR-YL-ZL-XL-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -100.0316715,
+            -289.16390459498916,
+            -25.698679,
+            63.36125750000001,
+            0.0,
+            0.0,
+            0.0,
+            -39.48241659498913,
+            0.0,
+            0.0,
+            0.0,
+            1.7738399999999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZR-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -55.744584225307406,
+            -101.41134738367427,
+            -26.8967145,
+            22.645352225307406,
+            0.0,
+            0.0,
+            0.0,
+            -6.798737608022094,
+            0.0,
+            0.0,
+            0.0,
+            0.5758044999999985
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZR-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -172.81563206018137,
+            -332.81991813400407,
+            -26.405533,
+            7.860098745540952,
+            0.0,
+            0.0,
+            0.0,
+            -6.713851548842257,
+            0.0,
+            0.0,
+            0.0,
+            1.066986
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZR-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -82.43333182524229,
+            116.32662928172256,
+            -16.520142999999997,
+            57.6185198252423,
+            0.0,
+            0.0,
+            0.0,
+            -61.93112996827743,
+            0.0,
+            0.0,
+            0.0,
+            10.952376
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZL-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            278.5303351075956,
+            -15.6665335,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -100.2725758575956,
+            0.0,
+            0.0,
+            0.0,
+            11.805985499999998
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZL-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -234.79616399999998,
+            319.67619633739247,
+            -19.8535715,
+            69.993784,
+            0.0,
+            0.0,
+            0.0,
+            -60.636913556609215,
+            0.0,
+            0.0,
+            0.0,
+            7.618947499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YR-ZL-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            -330.96541504024265,
+            -40.747728499999994,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -90.48295479024263,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XR-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            -135.797405375,
+            -40.747728499999994,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XR-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            -338.02828620827273,
+            -63.320471,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -97.54582595827274,
+            0.0,
+            0.0,
+            0.0,
+            9.297533000000001
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            -135.797405375,
+            -65.08450682616767,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            11.061568826167672
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -232.3957425742028,
+            -345.9488387419817,
+            -40.747728499999994,
+            67.59336257420284,
+            0.0,
+            0.0,
+            0.0,
+            -103.35188125801832,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XL-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -227.4575405,
+            -157.06750228356884,
+            -45.582803999999996,
+            62.65516050000002,
+            0.0,
+            0.0,
+            0.0,
+            -82.96958628356886,
+            0.0,
+            0.0,
+            0.0,
+            8.440133999999997
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XL-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -232.91166518162217,
+            -345.167515125,
+            -67.2981475,
+            68.1092851816222,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            13.275209500000003
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -233.61574399999998,
+            -135.797405375,
+            -66.379301,
+            68.813364,
+            0.0,
+            0.0,
+            0.0,
+            -104.68505487499999,
+            0.0,
+            0.0,
+            0.0,
+            12.356363000000002
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZR-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            73.57270437499999,
+            -40.747728499999994,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XR-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -94.80859599999998,
+            280.855640625,
+            -40.747728499999994,
+            69.99378399999999,
+            0.0,
+            0.0,
+            0.0,
+            -102.59788137500001,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XR-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -141.232915025313,
+            73.57270437499999,
+            -56.840341713674704,
+            23.569464974686987,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            2.817403713674711
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XR-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -152.23333966281115,
+            226.54337083989213,
+            -57.56026724200846,
+            12.56904033718881,
+            0.0,
+            0.0,
+            0.0,
+            -48.28561158989214,
+            0.0,
+            0.0,
+            0.0,
+            3.537329242008461
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XR-YL-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -233.72430009653584,
+            77.00616062499999,
+            -41.2433245,
+            68.92192009653587,
+            0.0,
+            0.0,
+            0.0,
+            -101.251598625,
+            0.0,
+            0.0,
+            0.0,
+            12.779613499999998
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XL-YR-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -234.720114,
+            281.054432125,
+            -40.747728499999994,
+            69.91773400000002,
+            0.0,
+            0.0,
+            0.0,
+            -102.79667287500001,
+            0.0,
+            0.0,
+            0.0,
+            13.275209499999999
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XL-YR-ZL.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -234.310141,
+            73.57270437499999,
+            -62.5490935,
+            69.50776100000002,
+            0.0,
+            0.0,
+            0.0,
+            -104.685054875,
+            0.0,
+            0.0,
+            0.0,
+            8.526155500000002
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XL-YL-ZR.b3dm"
+        },
+        "children": []
+      },
+      {
+        "transform": null,
+        "boundingVolume": {
+          "box": [
+            -234.41037599999999,
+            223.724426919535,
+            -59.0530875,
+            69.60799600000001,
+            0.0,
+            0.0,
+            0.0,
+            -45.46666766953501,
+            0.0,
+            0.0,
+            0.0,
+            5.0301495
+          ]
+        },
+        "geometricError": 0.0,
+        "refine": "REPLACE",
+        "content": {
+          "uri": "LOD-0/Mesh-XL-YL-ZL-XL-YL-ZL.b3dm"
+        },
+        "children": []
+      }
+    ]
+  }
+}
